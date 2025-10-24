@@ -188,6 +188,7 @@ def rhett(arg):
     #  ____ accepts a ___ for arg
     #  it does something
     #  it returns something
+    print()
     pass
 
 main()
